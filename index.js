@@ -30,3 +30,4 @@ function titleCased() {
 }
 
 console.log(titleCased());
+ 
